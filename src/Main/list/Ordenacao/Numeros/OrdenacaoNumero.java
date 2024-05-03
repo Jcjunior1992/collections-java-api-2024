@@ -5,7 +5,7 @@
 //ordenarAscendente(): Ordena os números da lista em ordem ascendente usando a interface Comparable e a class Collections.
 //ordenarDescendente(): Ordena os números da lista em ordem descendente usando um Comparable e a class Collections. *//
 
-package Main.list.Ordenacao;
+package Main.list.Ordenacao.Numeros;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

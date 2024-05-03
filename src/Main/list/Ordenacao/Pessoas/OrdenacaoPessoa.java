@@ -1,4 +1,4 @@
-package Main.list.Ordenacao;
+package Main.list.Ordenacao.Pessoas;
 
 import java.util.*;
 
