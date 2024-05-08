@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="700b1bca-43fa-492c-8df7-4b1971c7c360" name="Changes" comment="v1">
-      <change afterPath="$PROJECT_DIR$/src/Main/Map/OperacoesBasicas/AgendaContatos.java" afterDir="false" />
+    <list default="true" id="700b1bca-43fa-492c-8df7-4b1971c7c360" name="Changes" comment="v4">
+      <change afterPath="$PROJECT_DIR$/src/Main/Map/Ordenacao/AgendaEventos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Map/Ordenacao/Evento.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main/Map/Pesquisa/EstoqueProdutos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Set/Ordenacao/CadastroProdutos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Set/Ordenacao/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Map/Pesquisa/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Map/Pesquisa/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714697218643</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="v4">
+      <created>1715046303768</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715046303768</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +137,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v3" />
     <MESSAGE value="v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1" />
+    <MESSAGE value="v4" />
+    <option name="LAST_COMMIT_MESSAGE" value="v4" />
   </component>
 </project>

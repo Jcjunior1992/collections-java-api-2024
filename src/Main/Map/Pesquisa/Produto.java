@@ -12,4 +12,24 @@ public class Produto {
         this.quantidade = quantidade;
     }
 
+    public String getProduto() {
+        return produto;
+    }
+
+    public double getPreco() {
+        return preco;
+    }
+
+    public int getQuantidade() {
+        return quantidade;
+    }
+
+    @Override
+    public String toString() {
+        return "Produto{" +
+                "produto='" + produto + '\'' +
+                ", preco=" + preco +
+                ", quantidade=" + quantidade +
+                '}';
+    }
 }
